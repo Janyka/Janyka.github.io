@@ -1,3 +1,32 @@
 * {
     font-family: 'Open Sans', sans-serif;
+    background-color: #f7ffac;
+}
+
+table, td {
+    border: 1px solid;
+}
+
+table {
+    margin: auto;
+}
+
+thead td{
+    font-weight: bold;
+    background-color: #d3df58;
+}
+
+td {
+    padding: 3px;
+}
+
+.first-cell {
+    background-color: white;
+    text-align: center;
+    font-weight: 700;
+    color: #292929;
+}
+
+h1, h2 {
+    text-align: center;
 }
