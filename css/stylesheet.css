@@ -30,3 +30,11 @@ td {
 h1, h2 {
     text-align: center;
 }
+
+code {
+    background-color: white;
+    text-align: center;
+    font-weight: 700;
+    color: #292929;
+    padding: 3px;
+}
