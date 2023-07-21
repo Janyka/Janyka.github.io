@@ -38,3 +38,8 @@ code {
     color: #292929;
     padding: 3px;
 }
+
+footer p {
+    position: fixed;
+    text-alignment: center;
+}
