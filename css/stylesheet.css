@@ -39,7 +39,8 @@ code {
     padding: 3px;
 }
 
-footer p {
-    position: fixed;
+footer {
+    position: sticky;
     text-align: center;
+    width: auto;
 }
